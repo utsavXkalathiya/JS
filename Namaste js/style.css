@@ -1,0 +1,14 @@
+body {
+  background-color: gray;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+  color: white;
+}
+button{
+  color: black;
+  border-radius: 1rem;
+  padding: 1rem;
+  background-color: white;
+}
